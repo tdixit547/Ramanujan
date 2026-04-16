@@ -1,4 +1,5 @@
 # encoding fallback
+# encoding fallback
 from __future__ import annotations
 
 import tiktoken
