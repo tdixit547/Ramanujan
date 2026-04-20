@@ -15,6 +15,7 @@ logger = structlog.get_logger(__name__)
 
 
 # Tavily + SerpAPI
+# Tavily + SerpAPI
 class WebSearchTool(BaseTool):
     """
     Searches the web using Tavily (primary) or SerpAPI (fallback).
