@@ -25,6 +25,7 @@ class ToolDefinition(BaseModel):
 
 
 # Abstract tool interface
+# Abstract tool interface
 class BaseTool(abc.ABC):
     """
     Abstract base for all tools.
