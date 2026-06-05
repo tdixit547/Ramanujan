@@ -15,6 +15,7 @@ _TTL_SECONDS = 3600  # 1 hour cache
 
 
 # Redis with connection fallback
+# Redis with connection fallback
 class ResponseCache:
     """
     Redis-backed response cache.
