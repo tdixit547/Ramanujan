@@ -73,6 +73,7 @@ def create_app() -> FastAPI:
     settings = get_settings()
 
     # compressed responses
+# compressed responses
 app = FastAPI(
         title="Ask-the-Web Agent",
         description=(
