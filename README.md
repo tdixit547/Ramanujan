@@ -555,4 +555,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 * **Author:** Tanmay Dixit
 * **Education:** B.Tech Computer Science, IIIT Bangalore (Class of 2028)
-* **GitHub:** [TanmayDixit](https://github.com/TanmayDixit)
